@@ -1,4 +1,15 @@
-### Hi there 👋
+🧠 Neuroscience PhD
+
+📊 Data Scientist
+
+🐍 Pythonista
+
+☕ Coffee Lover
+
+📫 dongchan.choi@kcl.ac.uk
+
+
+
 
 <!--
 **chedongchan/chedongchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
