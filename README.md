@@ -1,12 +1,13 @@
 🧠 Neuroscience PhD
 
-📊 Data Scientist
+📊 Computer-Aided Biologist
 
 🐍 Pythonista
 
 ☕ Coffee Lover
 
 📫 dongchan.choi@kcl.ac.uk
+📫d.choi@oxb.com
 
 
 
